@@ -21,3 +21,7 @@ This application is developed using Spring-boot, Spring Restful webservices, Thy
 - If creating such a structure is not possible, change path in UploadController.java to any path as per your convinience
 - Run project as a Spring Boot Application
 - Access the project on http://localhost:8282/
+
+# Application Screenshots
+
+Please check the "Restful File Upload Application Screenshots.docx" document from the repository
